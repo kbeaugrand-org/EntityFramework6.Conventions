@@ -3,7 +3,7 @@
   "description": "EntityFramework6 Conventions in prevision of EF7 migration",
   "authors": [ "Kevin BEAUGRAND" ],
   "tags": [ "" ],
-  "projectUrl": "",
+  "projectUrl": "https://github.com/kbeaugrand/EntityFramework6.Conventions.git",
   "licenseUrl": "",
   "frameworks": {
     "net451": { }
