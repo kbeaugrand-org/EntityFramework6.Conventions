@@ -1,0 +1,17 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "EntityFramework6.Conventions.Test Class Library",
+  "authors": [ "Kevin.BEAUGRAND" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "net451": {
+      "dependencies": {
+        "xunit": "2.1.0",
+        "xunit.runner.visualstudio": "2.1.0"
+      }
+    }
+  }
+}

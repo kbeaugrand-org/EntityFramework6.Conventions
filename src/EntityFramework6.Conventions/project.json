@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1-*",
+  "description": "EntityFramework6 Conventions in prevision of EF7 migration",
+  "authors": [ "Kevin BEAUGRAND" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": { }
+  },
+  "dependencies": {
+    "EntityFramework": "6.1.3"
+  }
+}
